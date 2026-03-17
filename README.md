@@ -26,5 +26,5 @@
   </tr>
 </table>
 
-*Note:* Paper Available on request, a link will be included once available. 
+*Note:* Final Paper Available here: https://ieeexplore.ieee.org/document/11415947
 *Note:* This GitHub contains portions of code showing how final models were created.
