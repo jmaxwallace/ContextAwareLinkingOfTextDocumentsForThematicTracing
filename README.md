@@ -26,6 +26,7 @@
   </tr>
 </table>
 
+This repository contains portions of code showing how final models were created.
+
 *Note:* Final Paper Available here: https://ieeexplore.ieee.org/document/11415947
 
-*Note:* This GitHub contains portions of code showing how final models were created.
